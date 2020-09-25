@@ -3,6 +3,6 @@ public class TestGit {
 
         System.out.println("test git");
         System.out.println("更新后");
-        System.out.println("zaicigengixnhou ");
+        System.out.println("zaicigengixnhou   ");
     }
 }
